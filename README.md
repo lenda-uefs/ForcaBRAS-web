@@ -1,4 +1,3 @@
-## EM BREVE O CÓDIGO FONT...
 # TRABALHO DE CONCLUSÃO DE CURSO
 ## ForcaBRAS web: Um jogo educativo multiplayer para o aprendizado básico de Libras
 
@@ -9,5 +8,3 @@ A Língua Brasileira de Sinais (Libras) proporciona a inserção social de pesso
 ### Desenvolvedor:
 - Nome: Lenington do C. Rios
 - E-mail: lenitorios@gmail.com
-
-
