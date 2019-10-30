@@ -8,3 +8,10 @@ A Língua Brasileira de Sinais (Libras) proporciona a inserção social de pesso
 ### Desenvolvedor:
 - Nome: Lenington do C. Rios
 - E-mail: lenitorios@gmail.com
+
+##Como usar:
+
+1 - Abrir no CMD na pasta local e executar o servidor usando Node.js: node server.js
+2 - No bronwser inserir http://localhost:3000/
+
+obs. É preciso estar conectado a internet para que o Firebase possa ser utilizado e, consequentemente, a aplicação também.
